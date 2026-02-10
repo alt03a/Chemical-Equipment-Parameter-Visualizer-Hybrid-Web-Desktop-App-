@@ -1,0 +1,5 @@
+{
+  "name": "client",
+  "scripts": { "start": "vite", "build": "vite build" },
+  "dependencies": { "react": "^18", "react-dom": "^18" }
+}
