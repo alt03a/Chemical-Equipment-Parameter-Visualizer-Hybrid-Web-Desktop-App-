@@ -1,0 +1,5 @@
+{
+  "name": "chemical-equipment-visualizer",
+  "private": true,
+  "workspaces": ["client", "server", "shared"]
+}
